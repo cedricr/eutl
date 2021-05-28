@@ -6,5 +6,3 @@ https://ec.europa.eu/clima/ets/oha.do
 Pour la France, elles ont été géolocalisées via leur code postal.
 
 Le site https://www.euets.info propose une extraction différente, géolocalisée pour toute l'Europe via l'API Google Maps.
-
-Les scripts d'extraction sont disponibles sur https://github.com/cedricr/eutl
