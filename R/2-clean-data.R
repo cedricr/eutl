@@ -48,7 +48,7 @@ tidy_installations <- read_csv(
   rename(
     seqe_id = installation_or_aircraft_operator_id,
     installation_name = installation_name_or_aircraft_operator_code) |>
-    mutate(emissions = emissions / 1e6,
+    mutate(
          installation_name = toupper(installation_name),
          kind = fct_recode(
            # https://www.euets.info/static/download/Description_EUTL_database.pdf
