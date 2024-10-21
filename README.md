@@ -1,4 +1,4 @@
-Dépôt déplacé vers https://codeberg.org/cedricr/eutl
+Dépôt déplacé vers https://codeberg.org/cedricr/eutl-geo
 
 ---
 
